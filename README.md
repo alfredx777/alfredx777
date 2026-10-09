@@ -41,28 +41,6 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/alfredx777/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfredx777&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1" />
-</a>
-<a href="https://github.com/alfredx777/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfredx777&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2" />
-</a>
-
-<a href="https://github.com/alfredx777/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfredx777&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 3" />
-</a>
-<a href="https://github.com/alfredx777/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfredx777&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 4" />
-</a>
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -78,7 +56,7 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -92,7 +70,7 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 ---
 
-# Let's Connect
+## Let's Connect
 
 I'm always open to collaborating on interesting projects or just chatting about tech.
 Check out my [portfolio](https://alfred-dev.vercel.app) or [send me an email](mailto:alfredx777@outlook.com).

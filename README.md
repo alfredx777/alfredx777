@@ -17,17 +17,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate software developer based in Ghana, building clean, fast, and user-focused web applications. I enjoy turning ideas into products, and exploring where AI meets software.
 
 | | |
 |---|---|
-| 🔭 **Working on** | FieldOps: A small, fast, offline-capable desktop app for companies whose technicians work at customer sites. |
-| 🌱 **Learning** | Flask & AWS |
-| 💬 **Ask me about** | React, Node.js |
-| 🌐 **Portfolio** | [alfred-dev.vercel.app](https://alfred-dev.vercel.app) |
-| ⚡ **Fun fact** | I'm sure I'm funny |
+| **Working on** | FieldOps: A small, fast, offline-capable desktop app for companies whose technicians work at customer sites. |
+| **Learning** | Flask & AWS |
+| **Ask me about** | React, Node.js |
+| **Portfolio** | [alfred-dev.vercel.app](https://alfred-dev.vercel.app) |
+| **Fun fact** | I'm sure I'm funny |
 
 ---
 

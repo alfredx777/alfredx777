@@ -31,7 +31,7 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -56,7 +56,7 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to collaborating on interesting projects or just chatting about tech.
 Check out my [portfolio](https://alfred-dev.vercel.app) or [send me an email](mailto:alfredx777@outlook.com).

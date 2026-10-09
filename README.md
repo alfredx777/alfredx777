@@ -23,7 +23,7 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 | | |
 |---|---|
-| **Working on** | FieldOps: A small, fast, offline-capable desktop app for companies whose technicians work at customer sites. |
+| **Working on** | Stable Diffusion |
 | **Learning** | Flask & AWS |
 | **Ask me about** | React, Node.js |
 | **Portfolio** | [alfred-dev.vercel.app](https://alfred-dev.vercel.app) |
@@ -41,7 +41,29 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/alfredx777/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfredx777&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1" />
+</a>
+<a href="https://github.com/alfredx777/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfredx777&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2" />
+</a>
+
+<a href="https://github.com/alfredx777/REPO_NAME_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfredx777&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 3" />
+</a>
+<a href="https://github.com/alfredx777/REPO_NAME_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alfredx777&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 4" />
+</a>
+
+</div>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -56,7 +78,21 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 ---
 
-## Let's Connect
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfredx777/alfredx777/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfredx777/alfredx777/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/alfredx777/alfredx777/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+# Let's Connect
 
 I'm always open to collaborating on interesting projects or just chatting about tech.
 Check out my [portfolio](https://alfred-dev.vercel.app) or [send me an email](mailto:alfredx777@outlook.com).

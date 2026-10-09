@@ -23,7 +23,7 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 | | |
 |---|---|
-| **Working on** | Stable Diffusion |
+| **Working on** | FieldOps: A small, fast, offline-capable desktop app for companies whose technicians work at customer sites. |
 | **Learning** | Flask & AWS |
 | **Ask me about** | React, Node.js |
 | **Portfolio** | [alfred-dev.vercel.app](https://alfred-dev.vercel.app) |

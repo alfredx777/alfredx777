@@ -45,7 +45,7 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=alfredx777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="180" src="https://ghstats.dev/api/card?username=alfredx777&theme=tokyonight" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredx777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
 
 <br/>

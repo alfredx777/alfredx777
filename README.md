@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Alfred%20Acheampong&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Ghana%20%F0%9F%87%AC%F0%9F%87%AD&descAlignY=58&descSize=18" alt="Alfred Acheampong" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Alfred%20Acheampong&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Ghana%20%F0%9F%87%AC%F0%9F%87%AD&descAlignY=58&descSize=18" alt="Alfred Acheampong" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+modern+web+apps;Experimenting+with+Stable+Diffusion;Learning+Flask+%26+AWS;Yes%2C+I'm+sure+I'm+funny+%F0%9F%98%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+modern+web+apps;Experimenting+with+Stable+Diffusion;Learning+Flask+%26+AWS;Building+desktop+apps+with+Tauri;Yes%2C+I'm+sure+I'm+funny+%F0%9F%98%84" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,14 +17,14 @@
 
 ---
 
-## About Me
+## About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
 
 I'm a passionate software developer based in Ghana, building clean, fast, and user-focused web applications. I enjoy turning ideas into products, and exploring where AI meets software.
 
 | | |
 |---|---|
 | **Working on** | FieldOps: A small, fast, offline-capable desktop app for companies whose technicians work at customer sites. |
-| **Learning** | Flask & AWS |
+| **Learning** | Flask, AWS & Tauri |
 | **Ask me about** | React, Node.js |
 | **Portfolio** | [alfred-dev.vercel.app](https://alfred-dev.vercel.app) |
 | **Fun fact** | I'm sure I'm funny |
@@ -35,7 +35,7 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mysql,aws&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mysql,aws,tauri&theme=dark" alt="Tech stack" />
 
 </div>
 
@@ -71,6 +71,16 @@ I'm a passionate software developer based in Ghana, building clean, fast, and us
 
 ---
 
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfredx777&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Activity graph" />
+
+</div>
+
+---
+
 ## Let's Connect
 
 I'm always open to collaborating on interesting projects or just chatting about tech.
@@ -78,6 +88,6 @@ Check out my [portfolio](https://alfred-dev.vercel.app) or [send me an email](ma
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e75b6&height=100&section=footer&animation=twinkling" alt="Footer" />
 
 </div>
